@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)
-![](https://img.shields.io/badge/pytorch-1.10.1-blue?style=for-the-badge&logo=python&logoColor=orange)
 <p align="center">
 	<a href="https://github.com/nuaazs"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/nuaazs"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
