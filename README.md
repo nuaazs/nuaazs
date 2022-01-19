@@ -4,5 +4,6 @@
 	<a href="https://nuaazs.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 	<a href="https://scholar.google.com/citations"><img src="imgs/citations.svg" alt="Citations"></a>
 	<a href="https://www.zhihu.com/nuaazs"><img src="imgs/zhihu.svg" alt="知乎"></a>
+	![nuaazs's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuaazs&show_icons=true&theme=radical)
+
 </p>
-![nuaazs's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuaazs&show_icons=true&theme=radical)
