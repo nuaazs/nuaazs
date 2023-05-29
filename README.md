@@ -1,14 +1,3 @@
-
-<p align="center">
-	<a href="https://github.com/nuaazs"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/zhaosheng"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://www.zhihu.com/people/zhao-sheng-20-17"><img src="imgs/zhihu.svg" alt="知乎"></a>
-</p>
-
-<img align="right" height="141" src="https://github-readme-stats.vercel.app/api?username=nuaazs&theme=tokyonight&show_icons=true&count_private=true&hide_border=true">
-<!-- ![](https://github-readme-stats.vercel.app/api?username=zzyyyl&theme=tokyonight&show_icons=true&count_private=true) -->
-
-
 #### Languages
 
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
